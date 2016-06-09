@@ -1,2 +1,3 @@
 # hello-world
 First project with Git
+This is root copy...
